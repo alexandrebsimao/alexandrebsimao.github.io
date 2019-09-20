@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alexandre B. Simão</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Alexandre B. Simão</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comandos úteis diários no terminal Linux</title>
+      <link>/posts/comandos-uteis-diarios-no-terminal-linux/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/comandos-uteis-diarios-no-terminal-linux/</guid>
+      <description>Utilizo o Linux diariamente no trabalho ou em casa, seguido do terminal que está sempre aberto, uma ferramenta indispensavel na vida de um desenvolvedor.
+Irei listar aqui alguns comandos e atalhos úteis que utilizo diariamente no terminal e que irão ajudar você que esteja iniciando no Linux.
+ history O history é um ótimo comando para listar o histórico de seus últimos comandos executados no términal. Perfeito para identificar o que foi feito nos últimos comandos ou para relembrar de algum comando esquecido.</description>
+    </item>
+    
+  </channel>
+</rss>
